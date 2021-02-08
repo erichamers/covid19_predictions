@@ -224,7 +224,7 @@ holoviews==1.12.7
 hpsklearn==0.1.0
 html5lib==1.0.1
 htmlmin==0.1.12
-httplib2==0.17.0
+httplib2==0.19.0
 httplib2shim==0.0.3
 humanize==1.0.0
 hunspell==0.5.5
