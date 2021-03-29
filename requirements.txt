@@ -466,7 +466,7 @@ pyfasttext==0.4.6
 pyflakes==2.1.1
 pyflux==0.4.15
 pyglet==1.5.0
-Pygments==2.5.2
+Pygments==2.7.4
 pykalman==0.9.5
 pykoko==0.1.8
 pyLDAvis==2.1.2
