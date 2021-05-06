@@ -159,7 +159,7 @@ flake8==3.7.9
 flaky==3.6.1
 flashtext==2.7
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-JSON==0.3.4
 folium==0.10.1
 fsspec==0.6.2
